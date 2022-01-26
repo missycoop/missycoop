@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/tYM9tpF5zx34anPR0D/giphy.gif" alt="" style="width:6000px;height:600px" class="center">
+<img src="https://media.giphy.com/media/tYM9tpF5zx34anPR0D/giphy.gif" alt="" style="width:300px;height:300px" class="center">
 
 <h3 align="center">As a former Teacher, Professional Artist, a long-time Tech advocate & devotee, tech has always had a place in my life. While admiring those, including my big brother, who have surrounded me in Tech I felt I needed to make a difference with the youth so I focused on incorporating it and creativity into education rather than it being the focus. Yet, the passing years have fanned the fire for the want to be more in the driver’s seat of tech. Wanting to take what I’ve been teaching and put it into action bringing artistic & educational visions to life through code. While on my last & final maternity leave I spent the last year honing my skills in code & now seeking a team to grow into a specialized role & use my software engineering skillset to flourish with creative expression.</h3>
 
